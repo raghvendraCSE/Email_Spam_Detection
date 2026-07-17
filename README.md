@@ -6,11 +6,8 @@ A Machine Learning web application that predicts whether an email is **Spam** or
 
 ## 🚀 Live Demo
 
-🔗 Add your Streamlit link here after deployment
+🔗 https://emailspamdetection-7epzaxncz9dde6ka4msvb3.streamlit.app/
 
-Example:
-
-https://your-app-name.streamlit.app/
 
 ---
 
@@ -134,7 +131,8 @@ _Add a screenshot here_
 
 ### Prediction Result
 
-_Add a screenshot here_
+<img width="1253" height="977" alt="image" src="https://github.com/user-attachments/assets/5f6b36bd-ef73-4db0-b73e-b137b9e4d997" />
+
 
 ---
 
@@ -152,7 +150,7 @@ _Add a screenshot here_
 
 **Raghavendra Nath Chaturvedi**
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/raghvendraCSE/Email_Spam_Detection
 
 LinkedIn: https://www.linkedin.com/in/raghavendra-nath-chaturvedi-617830302/
 
