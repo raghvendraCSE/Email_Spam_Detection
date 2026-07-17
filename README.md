@@ -127,7 +127,8 @@ streamlit run app.py
 
 ### Home Page
 
-_Add a screenshot here_
+<img width="1897" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5feb330-608f-413d-8582-9af92abf4941" />
+
 
 ### Prediction Result
 
